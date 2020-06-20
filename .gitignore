@@ -3,3 +3,9 @@ c_collection/build
 c_collection/dist
 c_collection/nbproject/private
 
+#cpp_collection ignore list
+cpp_collection/build
+cpp_collection/dist
+cpp_collection/nbproject/private
+
+
