@@ -7,9 +7,9 @@ __author__ = "Bilal El Uneis"
 __since__ = "June 2020"
 __email__ = "bilaleluneis@gmail.com"
 
-libDir = "/root/Developer/collection/build/Debug/"
-lib = "collection"
-include = "/root/Developer/collection/include/"
+libDir = "../../c_collection/dist/Debug/GNU-Linux"
+lib = "c_collection"
+include = "../../c_collection"
 
 list_module = [Extension("clist",
                          sources=["clist.pyx"],

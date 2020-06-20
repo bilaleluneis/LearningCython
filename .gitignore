@@ -8,4 +8,12 @@ cpp_collection/build
 cpp_collection/dist
 cpp_collection/nbproject/private
 
+#cython ignore list
+cython/wrap_c/build/
+cython/wrap_c/clist.c
+cython/wrap_c/clist.cpython-39d-arm-linux-gnueabihf.so
+cython/wrap_c/clist.html
+cython/wrap_c/cython_debug/
+
+
 
