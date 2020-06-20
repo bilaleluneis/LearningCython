@@ -1,0 +1,5 @@
+project is built using Python 3.8.3 and Cython 0.29.19
+
+to build shared library for each example use: python3.8 setup.py build_ext --inplace --force
+
+example 1: extension_type (example of how to define C extension type which will translate to C Struct)
