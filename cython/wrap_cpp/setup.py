@@ -7,9 +7,9 @@ __author__ = "Bilal El Uneis"
 __since__ = "June 2020"
 __email__ = "bilaleluneis@gmail.com"
 
-libDir = "/root/Developer/cpp_collection/dist/Debug/GNU-Linux/"
+libDir = "../../cpp_collection/dist/Debug/GNU-Linux"
 lib = "cpp_collection"
-include = "/root/Developer/cpp_collection/"
+include = "../../cpp_collection"
 
 list_module = [Extension("cpplist",
                          sources=["cpplist.pyx"],
